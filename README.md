@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👦🏻 About Me
+- Passionate about **electronics**, **computer science** and **3D printing**
+- I enjoy **creating** and **finding** solutions for daily challenges and making life easier
+- Constantly **learning** and **experimenting** with new technologies
 
-<!--
-**breadboardharry/breadboardharry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 My Projects
+Here are some of the biggest projects I've worked on:
 
-Here are some ideas to get you started:
+- **Ultimate Powerbank** - A 100W powerbank with USB-C PD I've created from scratch. [See more](https://github.com/breadboardharry/ultimate-power-bank)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **PUT3** - A web app for pranking your friends by triggering events on their computer remotely. [See more](https://github.com/breadboardharry/put3)
+
+- **GoTroc** - A platform for sharing online classified ads. [See more](https://github.com/breadboardharry/gotroc)
+
+Thanks for stopping by! Happy coding! ✌🏻
